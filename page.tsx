@@ -1,1 +1,0 @@
-export default function Home(){return(<main style={{background:'#12061f',minHeight:'100vh',color:'#fff',padding:40}}><h1>🦌 FawnTools</h1><p>Modern web tools starter for Vercel.</p></main>)}
